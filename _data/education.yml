@@ -1,13 +1,19 @@
 # Degree
-- degree: Bachelor of Arts, Human Rights
-  uni: Yale University
-  year: 2004 &mdash; 2008
+- degree: Bachelor in Technology, Electronics and Communication
+  uni: Delhi Technological University
+  year: 2021 &mdash; 2025
   awards:
-    - award: Summa Cumme Laude graduate
-  summary: If you had any meaningful roles at college, feel free to write about them here
+    - award: 8.05 CGPA
+  summary: I am focusing in both core subjects and coding on the same time.
 
 - degree: High School Diploma
-  uni: Springfield High School
-  year: 2004
-  award: Most likely to succeed
-  summary: You can choose to have either a single or multiple awards
+  uni: K.M Academy
+  year: 2021
+  award: 75.6%
+  summary: Studied Science
+
+- degree: School Diploma
+uni: D.A.V Public School
+year: 2019
+award: 92%
+# summary: Studied Science
