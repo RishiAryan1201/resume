@@ -2,15 +2,15 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 # jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
+- project: Prototype of a society Website
+  # role: Founder & Primary Developer
+  # duration: 2012 &mdash; Present
   # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+  description: Altogether used HTML, CSS, and JavaScript to formulate this prototype. Added features like sections, navigation bar, buttons, etc. Comprehensively used CSS for this website.
 
 # Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
+- project: Clone of Spotify
+  # role: Co-Founder & Organizer
+  # duration: 2007 &mdash; Present
   # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+  description: • Added together HTML, CSS and JavaScript for the clone. Affixed sections, navigation bar,etc. Features Computed like play, pause,next , reverse etc. Thoroughly used CSS to design.

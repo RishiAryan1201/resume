@@ -2,9 +2,9 @@
 - degree: Bachelor in Technology, Electronics and Communication
   uni: Delhi Technological University
   year: 2021 &mdash; 2025
-  awards:
-    - award: 8.05 CGPA
-  summary: I am focusing in both core subjects and coding on the same time.
+  awards: 8.05 CGPA
+    # - award: 
+  # summary: I am focusing in both core subjects and coding on the same time.
 
 - degree: High School Diploma
   uni: K.M Academy
